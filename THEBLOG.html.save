@@ -1,0 +1,124 @@
+<!doctype html>
+
+
+<html>
+
+<head>
+<title> THE BLOG </title>
+<link href="style.css" rel="stylesheet" type = "text/css">
+
+</head>
+
+<body bgcolor="#ECECEA">
+<div id= "Blogs">
+<h1>Soccer</h1>
+<h2>History</h2>
+<div id="Blog1">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p> The History Of Soccer. More than 240 million people around the world play
+ soccer regularly according to the Federation Internationale
+ de Football Association (FIFA).</p></div>
+<h2>Evolution</h2>
+<div id="blog2">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5> 
+<p>The game has evolved from the sport of
+ kicking a  rudimentary animal-hide ball around into the World
+ Cup sport it is today.A game played by two teams of eleven players with
+ a round ball that may not be touched with the hands or arms
+ during play except by the goalkeepers.</p></div>
+<h2>Objective</h2>
+<div id="Blog3">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p> The object of the game
+ is to score goals by kicking or heading the ball into
+ the opponents' goal.</p></div>
+<?<h2>Biggest rivals</h2>
+<div id="Blog4">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>The biggest rivalry in soccer is Real Madrid and Barcelona.\
+ Both clubs are located on Spain</p>
+<h3>Real Madrid</h3>
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>Real Madrid Club de Futbol, commonly known as Real Madrid, or
+ simply as Real outside Spain frontiers, is a professional football club
+ based in Madrid, Spain.</p>
+<h4>Their major trophies:</h4>
+<ul>
+<li>The best club of the 20th Century FIFA trophy</li>
+<li>11 European cups</li>
+<li>2 FIFA club world cup</li>
+<li>32 La Liga BBVA</li>
+<li>19 Copa del rey</li>
+<li>9 spanish super cups</li>
+</ul>
+<h3>Barcelona</h3>
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>Futbol Club Barcelona, commonly known as Barcelona
+ and familiarly as Barca, is a professional
+ football club based in Barcelona, Catalonia, Spain.</p>
+<h4>Their major trophies</h4>
+<ul>
+<li>5 European cups</li>
+<li>3 FIFA club world cup</li>
+<li>24 La Liga BBVA</LI>
+<li>28 Copa del rey</li>
+<li>12 spanish super cups</li>
+
+</ul> </div>
+<h2>International soccer</h2>
+<div id="Blog5">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>Nation-level teams compete on the road to different cups, the most 
+important being the World Cup and there are five different smaller
+ tournaments for each continent.</p></div>
+
+<h2>The World Cup</h2>
+<div id="Blog6">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<P>The FIFA World Cup, often simply called the World Cup,
+ is an international association football competition
+ contested by the senior men's national teams of the world.
+</p></div>
+
+<h2>The Euro</h2>
+<div id="Blog7">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>The UEFA European Championship (known informally as the Euros)
+ is the primary association football
+ competition contested by the senior men's national
+ teams of the members of the Union of European Football
+ Associations (UEFA), determining the continental champion of Europe.
+</p></div>
+<h2>Copa America</h2>
+<div id="Blog8">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>Copa América (America Cup), until 1975 as the South
+ American Football Championship is an international men's football
+ tournament contested between
+ the south and central american nations.</p></div>
+<h2>Africa cup of nations</H2>
+<div id="Blog9">
+<h5>Carlos Couttolenc Feb 27th,2017.</H5>
+<p>The Africa Cup of Nations, officially CAN, also
+ referred to as African Cup of Nations, or AFCON, is the main
+ international
+ association football competition in Africa.</p></div>
+ <h2>Asian Cup</h2>
+ <div id="Blog10">
+<h5>Carlos Couttolenc Feb 27th,2017.</H5>
+<p>The AFC Asian Cup is an international association football tournament
+ run by the Asian Football Confederation (AFC).</p></div>
+<h2>Gold Cup</h2>
+<div id="Blog11">
+<h5>Carlos Couttolenc Feb 27th,2017.</h5>
+<p>The CONCACAF Gold Cup is the main association
+ football competition of the men's national football
+ teams governed by CONCACAF, determining the continental champion
+ of North America, Central America, and the Caribbean.</p></div>
+<a href="file:///home/gold/work/about.html"> MY PAGE!</a>
+</div>
+
+</body>
+
+</html>
+
